@@ -14,7 +14,7 @@
 ---
 </Markdown> .✦ ݁˖
 ────────────────୨ৎ────────────────
-## 🌸 About Me
+## About Me <img src="https://i.pinimg.com/originals/93/5e/fd/935efd1a6152cf1f0678f5c8b882a2e3.gif" width="50">
 
 🎓 Computer Science Student at IU Internationale Hochschule  
 🎀 Love pink aesthetics, coding & creative projects  
@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffb6c1&size=25&center=true&vCenter=true&width=600&lines=Thankyou+for+visiting+my+Profile+🎀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffb6c1&size=25&center=true&vCenter=true&width=600&lines=♡+𝑻𝒉𝒂𝒏𝒌𝒚𝒐𝒖+𝒇𝒐𝒓+𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈+𝒎𝒚+𝒑𝒓𝒐𝒇𝒊𝒍𝒆+♡"/>
 </p>
 
 ---
