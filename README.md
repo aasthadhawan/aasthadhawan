@@ -33,5 +33,9 @@
 ---
 
 <p align="center">
-  ✨ thanks for visiting my profile ✨
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffb6c1&size=25&center=true&vCenter=true&width=600&lines=Thankyou+for+visiting+my+Profile+🎀"/>
 </p>
+
+---
+
+
