@@ -1,5 +1,7 @@
 # ✨ Hello, I'm Aastha 🎀
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/16/8a/bc/168abcdc633cff551c0d66da98a37a39.gif" width="200"/>
+</p>
 <p align="center">
   <img src="https://media.tenor.com/Xn5m6H6P5wUAAAAi/cute-cat.gif" width="180"/>
 </p>
@@ -14,9 +16,8 @@
 ## 🌸 About Me
 
 🎓 Computer Science Student at IU Internationale Hochschule  
-💻 Future Full Stack Developer  
-☁️ Dreaming of becoming a Software Engineer at Google or Apple  
-🎀 Love pink aesthetics, coding, cozy setups & creative projects  
+🎀 Love pink aesthetics, coding & creative projects  
+🌸 Hobbies: Cooking, Trying new Cusines, Vlogging, Travelling..
 
 ---
 
