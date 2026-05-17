@@ -1,4 +1,4 @@
-# ⋆. 𐙚˚࿔ Hello, I'm Aastha 𝜗𝜚˚⋆  
+# ⋆. 𐙚˚࿔ Hello, I'm Aastha 𝜗𝜚˚⋆  <img src="https://i.pinimg.com/originals/d3/e1/02/d3e102b2760f02e9559953b206b4221c.gif" width="60">
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/8a/bc/168abcdc633cff551c0d66da98a37a39.gif" width="200"/>
 </p>
@@ -37,5 +37,4 @@
 </p>
 
 ---
-
 
